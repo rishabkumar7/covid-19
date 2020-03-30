@@ -1,0 +1,29 @@
+body{
+  background-color:black;
+  color: white;
+}
+.recovered {
+  color: rgb(43, 157, 11);
+}
+.deaths {
+  color: #e80923;
+}
+.masthead {
+  padding-top: 2vh;
+  text-align: center;
+}
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 8%;
+}
+.centertext {
+  margin-top: 4vh;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 10vh;
+  bottom: 0px;
+}
