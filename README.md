@@ -1,6 +1,6 @@
-# Covid-19-india
+# Covid-19-Canada
 
-Covid-19-India stats and summary.
+Covid-19-Canada stats and summary.
 
 # Tech Stack
 
@@ -11,12 +11,11 @@ Covid-19-India stats and summary.
 
 # How to Run ?
 
-- git clone git@github.com:ashishkumarsinghh/Covid-19-india.git
-- cd Covid-19-india/covid-19-india
+- git clone git@github.com:rishabkumar7/covid-19.git
+- cd covid-19
 - yarn
 - yarn start
 - Open Browser (localhost:3000)
 
-# Deployed using Zeit now
-
-https://covid-19-india.now.sh/
+# Deployed using Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d31443c4-f38f-4ced-bf3b-443f255dcf8a/deploy-status)](https://app.netlify.com/sites/inspiring-nobel-680723/deploys)
