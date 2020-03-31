@@ -17,6 +17,5 @@ Covid-19-India stats and summary.
 - yarn start
 - Open Browser (localhost:3000)
 
-# Deployed using Zeit now
+# Deployed using Netlify
 
-https://covid-19-india.now.sh/
