@@ -11,7 +11,7 @@ Covid-19-Canada stats and summary.
 
 # How to Run ?
 
-- git clone git@github.com:rishabkumar7/covid-19.git
+- git clone git@github.com/rishabkumar7/covid-19.git
 - cd covid-19
 - yarn
 - yarn start
