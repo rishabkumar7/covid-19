@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 import SiteGrid from "./Grid";
 function App() {
   useEffect(() => {
@@ -40,6 +41,7 @@ function App() {
         timeline={historicalData && historicalData.timeline}
         world={worldStats}
       />
+
       <div className="footer">
         Developed by{" "}
         <a href="https://github.com/rishabkumar7">Rishab Kumar</a>
