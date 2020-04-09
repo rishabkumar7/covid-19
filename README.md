@@ -1,16 +1,14 @@
-# Covid-19-Canada
+# COVID-19-Canada
 
 Covid-19-Canada stats and summary.
 
 # Tech Stack
-
 - React
 - create-react-app
 - Bootstrap & React-Bootstrap
 - ChartJS
 
 # How to Run ?
-
 - git clone git@github.com/rishabkumar7/covid-19.git
 - cd covid-19
 - yarn
