@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import SiteGrid from "./Grid";
 function App() {
   useEffect(() => {
-    fetch("https://corona.lmao.ninja/all")
+    fetch("https://disease.sh/v2/all")
       .then(res => res.json())
       .then(data => {
         setWorldStats(data);
@@ -11,7 +11,7 @@ function App() {
     return () => { };
   }, []);
   useEffect(() => {
-    fetch("https://corona.lmao.ninja/countries/canada")
+    fetch("https://disease.sh/v2/countries/canada")
       .then(res => res.json())
       .then(data => {
         setdailyStats(data);
@@ -20,7 +20,7 @@ function App() {
   }, []);
 
   useEffect(() => {
-    fetch("https://corona.lmao.ninja/v2/historical/canada")
+    fetch("https://disease.sh/v2/historical/canada")
       .then(res => res.json())
       .then(data => {
         setHistoricalData(data);
