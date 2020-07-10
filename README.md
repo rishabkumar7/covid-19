@@ -8,6 +8,9 @@ Covid-19-Canada stats and summary.
 - Bootstrap & React-Bootstrap
 - ChartJS
 
+# API
+[Open Disease Data](https://disease.sh/)
+
 # How to Run ?
 - git clone git@github.com/rishabkumar7/covid-19.git
 - cd covid-19
